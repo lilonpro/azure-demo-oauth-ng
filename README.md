@@ -28,7 +28,7 @@ Library used https://www.npmjs.com/package/angular-oauth2-oidc
     npm install
     npm start
 ```
-## Testing credentials
+## Testing credentials (As of 2019-04-17 my Azure trail will expire in 30 days. But you should be able to setup your own Azure AD and update OAuth config to point to your own Azure endpoints)
 User: liaoniu@mingz.onmicrosoft.com
 Passwd: Wsib2019
 
